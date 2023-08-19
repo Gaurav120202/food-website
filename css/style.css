@@ -129,7 +129,7 @@ button:hover {
 }
 
 ::-webkit-scrollbar-track {
-  background: black;
+  background: var(--white);
 }
 
 ::-webkit-scrollbar-thumb {
